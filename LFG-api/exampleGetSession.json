@@ -1,0 +1,72 @@
+{
+  "response": {
+    "session_count": 7,
+    "sessions": [
+      {
+        "name": "CSGO Lobby",
+        "appid": 730,
+        "host_id": 76561198133648765,
+        "type": "Private",
+        "status": "Open",
+        "free_slots": 3,
+        "total_slots": 5,
+        "requirements": "Master Guardian 1",
+        "game_mode": "Competitive",
+        "language": "English",
+        "expiry": "2024-04-23T18:25:43.511Z"
+      },
+      {
+        "name": "Looking for a father figure",
+        "appid": 1913210,
+        "host_id": 76561178073127289,
+        "type": "Public",
+        "status": "Open",
+        "free_slots": 4,
+        "total_slots": 5,
+        "requirements": "MMR > 3000",
+        "game_mode": "All pick",
+        "language": "Chinese",
+        "expiry": "2024-04-02T18:25:43.511Z"
+      },
+      {
+        "name": "I Swerve When I Drive",
+        "appid": 2108330,
+        "host_id": 76561178073127289,
+        "type": "Public",
+        "status": "Open",
+        "free_slots": 4,
+        "total_slots": 5,
+        "requirements": "MMR > 3000",
+        "game_mode": "All pick",
+        "language": "Chinese",
+        "expiry": "2024-04-02T18:25:43.511Z"
+      },
+      {
+        "name": "DOTA 2 Lobby",
+        "appid": 570,
+        "host_id": 76561178073127289,
+        "type": "Public",
+        "status": "Open",
+        "free_slots": 4,
+        "total_slots": 5,
+        "requirements": "MMR > 3000",
+        "game_mode": "All pick",
+        "language": "Chinese",
+        "expiry": "2024-04-02T18:25:43.511Z"
+      },
+      {
+        "name": "PUBG Lobby",
+        "appid": 578080,
+        "host_id": 76561198073185642,
+        "type": "Public",
+        "status": "Ongoing",
+        "free_slots": 5,
+        "total_slots": 5,
+        "requirements": "Diamond",
+        "game_mode": "Squad",
+        "language": "Malay",
+        "expiry": "2024-04-10T18:25:43.511Z"
+      }
+    ]
+  }
+}
